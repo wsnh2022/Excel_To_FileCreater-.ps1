@@ -1,7 +1,7 @@
 ﻿#Requires AutoHotkey v2.0+
 #SingleInstance force
-#Include C:\Users\The_Thinker\Documents\AutoHotkey_V2\lib\GuiEnhancerKit.ahk
-#Include C:\Users\The_Thinker\Documents\AutoHotkey_V2\lib\ColorButton.ahk
+#Include GuiEnhancerKit.ahk
+#Include ColorButton.ahk
 
 ~Escape::ExitApp
 ~!Space::Reload
