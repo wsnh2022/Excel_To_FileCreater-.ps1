@@ -1,5 +1,3 @@
-# Excel_To_FileCreater-.ps1
-
 # Excel to Files Generator
 
 This PowerShell script automates the process of creating multiple files based on data stored in an Excel spreadsheet. It leverages the ImportExcel module to read from an Excel file and generate corresponding files with specified content.
